@@ -50,6 +50,7 @@ group :test do
   gem 'capybara', '>= 2.15'
   gem 'rspec-rails', '~> 3.6'
   gem 'factory_girl_rails'
+  gem "factory_bot_rails"
   gem 'rails-controller-testing'
   gem 'headless'
   gem 'poltergeist'
